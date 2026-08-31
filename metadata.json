@@ -1,0 +1,6 @@
+{
+  "name": "SIH Portal: Academia-Industry Collaboration & Skill Mapping",
+  "description": "Integrated portal for student skill mapping, skill-gap identification, internship/job discovery, mentorship, and placement analytics for SIH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
